@@ -45,7 +45,7 @@ var APP_DATA = {
           "yaw": 0.44944771728270005,
           "pitch": 0.7427975686890651,
           "title": "2D Interface",
-          "text": "Text"
+          "text": "<img src= images/2DInterface.png>”"
         },
         {
           "yaw": 0.659392609587762,
