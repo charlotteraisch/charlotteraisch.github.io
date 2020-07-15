@@ -128,13 +128,13 @@ var APP_DATA = {
           "yaw": 0.1458041348441821,
           "pitch": 0.024568228474088016,
           "title": "Background",
-          "text": "An analysis of the existing learning spaces in schools help to find new, more dynamic spaces with a focus on individualized learning."
+          "text": "An analysis of the existing learning spaces <br>in schools help to find new, more dynamic<br spaces with a focus on individualized<br learning."
         },
         {
           "yaw": 0.26315339000916715,
           "pitch": 0.02894782849534927,
           "title": "Concept",
-          "text": "The Future School concept is based on new diverse learning space typologies. Every student can decide individually how to learn an in which surrounding."
+          "text": "The Future School concept is based on new<br diverse learning space typologies. <brEvery student can decide individually <brhow to learn an in which surrounding."
         },
         {
           "yaw": 0.4061901975318758,
