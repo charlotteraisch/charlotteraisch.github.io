@@ -146,19 +146,19 @@ var APP_DATA = {
           "yaw": 0.8918939428520289,
           "pitch": -0.3100940280197264,
           "title": "Future School&nbsp;<div>Concept</div>",
-          "text": "Text"
+          "text": "<img src= images/FutureSchoolConcept.png>"
         },
         {
           "yaw": 1.104607835805103,
           "pitch": -0.2994975921112317,
           "title": "Future School&nbsp;<div>Typologies</div>",
-          "text": "Text"
+          "text": "<img src= images/FutureSchoolTypologies.png>"
         },
         {
           "yaw": 1.8362244265674432,
           "pitch": -0.03092563318432795,
           "title": "Building site",
-          "text": "Text"
+          "text": "<img src= images/BuildingSite.png>"
         },
         {
           "yaw": 2.5316459238670364,
@@ -182,13 +182,13 @@ var APP_DATA = {
           "yaw": -0.7965727697046034,
           "pitch": -0.18770721088542075,
           "title": "Background - Future?",
-          "text": "Text"
+          "text": "<img src= images/BackgroundFuture.jpg>"
         },
         {
           "yaw": -0.4674734331039847,
           "pitch": -0.190488197906042,
           "title": "Background&nbsp;<div>- Future Education</div>",
-          "text": "Text"
+          "text": "<img src= images/BackgroundFutureEducation.png>"
         }
       ]
     },
@@ -241,19 +241,19 @@ var APP_DATA = {
           "yaw": -0.8679694023503686,
           "pitch": -0.1442861711208927,
           "title": "Cockpit Mantis Iris&nbsp;<div>- for individual learning</div>",
-          "text": "Text"
+          "text": "<img src= images/CockpitIndividual.png>"
         },
         {
           "yaw": -0.4398051323736052,
           "pitch": -0.15267556007353456,
           "title": "Cockpit Mantis Iris&nbsp;<div>- group work</div>",
-          "text": "Text"
+          "text": "<img src= images/CockpitGroup.png>"
         },
         {
           "yaw": -0.6677396959345376,
           "pitch": -0.14896957006182276,
           "title": "Cockpit Mantis Iris&nbsp;<div>- meeting and connecting</div>",
-          "text": "Text"
+          "text": "<img src= images/CockpitMeeting.png>"
         },
         {
           "yaw": 0.32370893302073256,
