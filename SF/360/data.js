@@ -57,13 +57,13 @@ var APP_DATA = {
           "yaw": 0.659392609587762,
           "pitch": 1.2644938506866694,
           "title": "2D Interface info",
-          "text": "You can pull out your 2D weekplan to organize your daily and weekly options."
+          "text": "You can pull out your 2D <br>weekplan to organize your daily <br>and weekly options."
         },
         {
           "yaw": -0.7653228041556783,
           "pitch": 1.1706022136265535,
           "title": "3D Interface",
-          "text": "The 3D tree shows your learning path. Every week you can choose on which topics you want to focus."
+          "text": "The 3D tree shows your learning <br>path. Every week you can choose <br>on which topics you want to <br>focus."
         },
         {
           "yaw": -1.0184864796292281,
@@ -75,7 +75,7 @@ var APP_DATA = {
           "yaw": -0.6212739187873915,
           "pitch": 0.1002524735631578,
           "title": "Movement &amp; Interaction",
-          "text": "The dynamic shape of the building helps you to stay interactive and spontaneously physical movements are connected to the virtual ones. An overlaying AR Interface replaces your school bag. You can access this 2 Dor 3D Interface at the prepared spaces within the building. Architecture builds the new virtual Desktop."
+          "text": "The dynamic shape of the <br>building helps you to stay <br>interactive and spontaneously <br>physical movements are connected to the <br>virtual ones. <br>An overlaying AR Interface replaces <br>your school bag. You can <br>access this 2D or 3D Interface <br>at the prepared spaces within <br>the building. Architecture builds <br>the new virtual Desktop."
         },
         {
           "yaw": 2.752216673802929,
@@ -128,25 +128,25 @@ var APP_DATA = {
           "yaw": 0.2772313721772903,
           "pitch": -0.126744948058235,
           "title": "Hi, Future School",
-          "text": "Check the concept of the building and the learning space typologies!"
+          "text": "Check the concept of the building <br>and the learning space typologies!"
         },
         {
           "yaw": 0.1458041348441821,
           "pitch": 0.024568228474088016,
           "title": "Background",
-          "text": "An analysis of the existing learning spaces in schools help to find new, more dynamic spaces with a focus on individualized<br learning."
+          "text": "An analysis of the existing learning spaces <br>in schools help to find new, <br>more dynamic spaces with a focus on <br>individualized learning."
         },
         {
           "yaw": 0.26315339000916715,
           "pitch": 0.02894782849534927,
           "title": "Concept",
-          "text": "The Future School concept is based on new diverse learning space typologies. Every student can decide individually how to learn an in which surrounding."
+          "text": "The Future School concept is based <br>on new diverse learning space typologies. <br>Every student can decide individually <br>how to learn an in which surrounding."
         },
         {
           "yaw": 0.4061901975318758,
           "pitch": 0.03133665630212157,
           "title": "Building",
-          "text": "In relation to the location and the environment, the spaces can be organized differently."
+          "text": "In relation to the location and <br>the environment, the spaces can <br>be organized differently."
         },
         {
           "yaw": 0.8918939428520289,
@@ -170,25 +170,31 @@ var APP_DATA = {
           "yaw": 2.5316459238670364,
           "pitch": 0.12714579418006267,
           "title": "\"Hands-On\" and \"White-Cave\"",
-          "text": "The second part of the building is non-virtual. Your learning tools, as for example your hands, stay physical.<br>Both areas overlay eachother and fire interaction on both levels. An example that could develop is vertical gardening. It is dependent on botanical and scientific knowledge as well as technical programming."
+          "text": "The second part of the building <br>is non-virtual. Your learning <br>tools, as for example your hands, <br>stay physical.<br>Both areas overlay eachother <br>and fire interaction on both levels. <br>An example that could develop <br>is vertical gardening. It is <br>dependent on botanical and scientific <br>knowledge as well as technical <br>programming."
         },
         {
           "yaw": -2.8444897546008256,
           "pitch": 0.21237656440329644,
           "title": "MEDIA workshop",
-          "text": "Recentls there is going on a workshop which connects 3 of the 6 main education topics; MEDIA, SCIENCE and HANDS-ON.<br><br>The 5 education topics are:<br><br>LANGUAGE<div>CULTURE &amp; SOCIETY</div><div>SCIENCE<br>MOVEMENT</div><div>MEDIA</div><div>HANDS-ON</div>"
+          "text": "Recentls there is going on a <br>workshop which connects 3 of the <br>6 main education topics; MEDIA, <br>SCIENCE and HANDS-ON.<br><br>The 5 education topics are:<br><br>LANGUAGE<div>CULTURE &amp; SOCIETY</div><div>SCIENCE<br>MOVEMENT</div><div>MEDIA</div><div>HANDS-ON</div>"
         },
         {
           "yaw": -2.1842432509538554,
           "pitch": 0.2541084827629092,
           "title": "Mutli-Use Glas Space",
-          "text": "This multi-use space is half public. Every student that passes by can check the workshops or events that are recently happening."
+          "text": "This multi-use space is half public. <br>Every student that passes by can >check the <br>workshops or events that are recently <br>happening."
         },
         {
           "yaw": -0.7965727697046034,
           "pitch": -0.18770721088542075,
           "title": "Background - Future?",
           "text": "<img src= images/BackgroundFuture.jpg>"
+        },
+         {
+          "yaw": -0.7965727697046034,
+          "pitch": -0.2,
+          "title": "Background - Education20",
+          "text": "<img src= images/Education20.png>"
         },
         {
           "yaw": -0.4674734331039847,
@@ -241,7 +247,7 @@ var APP_DATA = {
           "yaw": -0.8775779596360103,
           "pitch": 0.38329747162147676,
           "title": "Cockpit Mantis Iris&nbsp;<div>- Concept</div>",
-          "text": "The Cockpit Mantis Iris is a movable object in which you can work individually and concentrated. Moreover it can connect with others physically and virtually. Group works with virtuals next to physicals are possible."
+          "text": "The Cockpit Mantis Iris is <br>a movable object in which you <br>can work individually and concentrated. <br>Moreover it can connect with others <br>physically and virtually. <br>Group works with virtuals next <br>to physicals are possible."
         },
         {
           "yaw": -0.8679694023503686,
@@ -265,49 +271,49 @@ var APP_DATA = {
           "yaw": 0.32370893302073256,
           "pitch": -0.04298002412646085,
           "title": "Ramps",
-          "text": "As the building has different learning offers, it is organized with a lot of ramps to provoke movement and interaction."
+          "text": "As the building has different <br>learning offers, it is organized <br>with a lot of ramps to provoke movement <br>and interaction."
         },
         {
           "yaw": 1.0236752870298318,
           "pitch": 0.0027730294888321794,
           "title": "Swipe between your screens!",
-          "text": "The guy is swiping the layout from the table to the wall."
+          "text": "The guy is swiping the layout <br>from the table to the wall."
         },
         {
           "yaw": 1.1741418129744083,
           "pitch": 0.6126208917748226,
           "title": "Group area",
-          "text": "This area is an open space for group works. It offers different learning situations for differetn physical states - as low or high sitting and standing."
+          "text": "This area is an open space for <br>group works. It offers different learning <br>situations for differetn physical states <br>- as low or high sitting and standing."
         },
         {
           "yaw": 2.6624372260306277,
           "pitch": 0.4695807184372871,
           "title": "Screen Table Interface",
-          "text": "You can log-in on the table screen. It replaces your school bag."
+          "text": "You can log-in on the table screen. <br>It replaces your school bag."
         },
         {
           "yaw": -3.0595538273482568,
           "pitch": 0.1722817110151844,
           "title": "Wall Interface",
-          "text": "This space has desks that are oriented to the sides. The wall can be used as a screen. You can place information 3D at the wall."
+          "text": "This space has desks that are oriented <br>to the sides. The wall can be used <br>as a screen. You can place information <br>3D at the wall."
         },
         {
           "yaw": -2.457172423290201,
           "pitch": 0.0224055285246898,
           "title": "Virtual listeners",
-          "text": "In the back of the room the teacher is able to interact with virtual listeners."
+          "text": "In the back of the room the <br>teacher is able to interact with <br>virtual listeners."
         },
         {
           "yaw": -1.879574660667842,
           "pitch": 0.114556786003849,
           "title": "Presentation",
-          "text": "Here you can join presentations of a physical or virtual teacher."
+          "text": "Here you can join presentations <br>of a physical or virtual teacher."
         },
         {
           "yaw": -1.4351287939066761,
           "pitch": 0.05290061630597087,
           "title": "Integrated Screen for the teacher",
-          "text": "The teacher has his/her screen within the structure of the room to control the presantation interface."
+          "text": "The teacher has his/her screen within the <br>structure of the room to control <br>the presantation interface."
         }
       ]
     }
