@@ -173,6 +173,6 @@ Module['FS_createPath']('/LottesBallGame/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 52, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 52, "audio": 0, "end": 100, "filename": "/UE4CommandLine.txt"}, {"start": 100, "audio": 0, "end": 40401424, "filename": "/LottesBallGame/Content/Paks/LottesBallGame-HTML5.pak"}], "remote_package_size": 40401424, "package_uuid": "6dd918b8-025a-4f3c-8bea-8a2c991b8ecc"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 52, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 52, "audio": 0, "end": 100, "filename": "/UE4CommandLine.txt"}, {"start": 100, "audio": 0, "end": 40414510, "filename": "/LottesBallGame/Content/Paks/LottesBallGame-HTML5.pak"}], "remote_package_size": 40414510, "package_uuid": "6dda104f-c71e-414b-ac44-9561d7100655"});
 
 })();
