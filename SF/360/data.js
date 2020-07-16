@@ -39,13 +39,13 @@ var APP_DATA = {
           "yaw": 0.44944771728270005,
           "pitch": 0.08529461439359665,
           "title": "Hi, Future YOU",
-          "text": "<div>When you enter the school, put on your AR glasses to intersct with all the hidden features in this building.</div>"
+          "text": "<div> Welcome to the lifelong learning <br>Future School Concept, where AR <br>interfaces are directly connected <br>to a dynamic architecture. <br>In this concept an artificial intelligence <br>works together with teachers. <br>On the ine side a student can decide what <br>he/she wants to learn, on the <br>other side a teacher and an <br>artificial intelligence help him/her <br>to reflect and to find their specifications. <br>Move around to experience!</div>"
         },
         {
           "yaw": -3.0240116010343225,
           "pitch": 0.08529461439359665,
           "title": "Augmented Reality",
-          "text": "<div>When you enter the school, put on your AR glasses to intersct with all the hidden features in this building.</div>"
+          "text": "<div>When you enter the school, <br>put on your AR glasses to <br>intersect with all the hidden features <br>in this building.</div>"
         },
         {
           "yaw": 0.44944771728270005,
