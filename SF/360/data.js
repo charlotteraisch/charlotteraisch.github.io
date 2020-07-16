@@ -191,7 +191,7 @@ var APP_DATA = {
           "text": "<img src= images/BackgroundFuture.jpg>"
         },
          {
-          "yaw": -0.7965727697046034,
+          "yaw": -0.2,
           "pitch": -0.2,
           "title": "Background - Education20",
           "text": "<img src= images/Education20.png>"
