@@ -35,6 +35,12 @@ var APP_DATA = {
         }
       ],
       "infoHotspots": [
+      {
+          "yaw": 0.44944771728270005,
+          "pitch": 0.08529461439359665,
+          "title": "Hi, Future YOU",
+          "text": "<div>When you enter the school, put on your AR glasses to intersct with all the hidden features in this building.</div>"
+        },
         {
           "yaw": -3.0240116010343225,
           "pitch": 0.08529461439359665,
