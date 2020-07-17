@@ -45,7 +45,7 @@ var APP_DATA = {
           "yaw": -3.0240116010343225,
           "pitch": 0.08529461439359665,
           "title": "Augmented Reality",
-          "text": "<div>When you enter the school, <br>put on your AR glasses to <br>intersect with all the hidden features <br>in this building.</div>"
+          "text": "<div>When you enter the school, put <br>on your AR glasses to intersect with <br>all the hidden features in <br>this building.</div>"
         },
         {
           "yaw": 0.44944771728270005,
@@ -75,13 +75,13 @@ var APP_DATA = {
           "yaw": -0.6212739187873915,
           "pitch": 0.1002524735631578,
           "title": "Movement &amp; Interaction",
-          "text": "The dynamic shape of the <br>building helps you to stay <br>interactive and spontaneously <br>physical movements are connected to the <br>virtual ones. <br>An overlaying AR Interface replaces <br>your school bag. You can <br>access this 2D or 3D Interface <br>at the prepared spaces within <br>the building. Architecture builds <br>the new virtual Desktop."
+          "text": "The dynamic shape of the <br>building helps you to stay <br>interactive and spontaneously <br>physical movements are connected <br>to the virtual ones. <br>An overlaying AR Interface replaces <br>your school bag. You can <br>access this 2D or 3D Interface <br>at the prepared spaces within <br>the building. Architecture builds <br>the new virtual Desktop."
         },
         {
           "yaw": 2.752216673802929,
           "pitch": -0.8077228439418906,
-          "title": "*",
-          "text": "Text"
+          "title": "The Future School ",
+          "text": "<img src= images/FutureSchool_von_außen.jpg>"
         }
       ]
     },
