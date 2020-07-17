@@ -134,7 +134,7 @@ var APP_DATA = {
           "yaw": 0.1458041348441821,
           "pitch": 0.024568228474088016,
           "title": "Background",
-          "text": "An analysis of the existing learning spaces <br>in schools help to find new, <br>more dynamic spaces with a focus on <br>individualized learning."
+          "text": "An analysis of the existing learning spaces <br>in schools help to find new, more dynamic <br>spaces with a focus on individualized <br>learning."
         },
         {
           "yaw": 0.26315339000916715,
@@ -170,7 +170,7 @@ var APP_DATA = {
           "yaw": 2.5316459238670364,
           "pitch": 0.12714579418006267,
           "title": "\"Hands-On\" and \"White-Cave\"",
-          "text": "The second part of the building <br>is non-virtual. Your learning <br>tools, as for example your hands, <br>stay physical.<br>Both areas overlay eachother <br>and fire interaction on both levels. <br>An example that could develop <br>is vertical gardening. It is <br>dependent on botanical and scientific <br>knowledge as well as technical <br>programming."
+          "text": "The second part of the building <br>is non-virtual. Your learning <br>tools, as for example your hands, <br>stay physical.<br>Both areas overlay eachother <br>and fire interaction on both levels. <br>An example that could develop <br>is vertical gardening. It is dependent <br>on botanical and scientific knowledge <br>as well as technical programming."
         },
         {
           "yaw": -2.8444897546008256,
@@ -182,7 +182,7 @@ var APP_DATA = {
           "yaw": -2.1842432509538554,
           "pitch": 0.2541084827629092,
           "title": "Mutli-Use Glas Space",
-          "text": "This multi-use space is half public. <br>Every student that passes by can >check the <br>workshops or events that are recently <br>happening."
+          "text": "This multi-use space is half public. <br>Every student that passes by can check <br>the workshops or events that are <br>recently happening."
         },
         {
           "yaw": -0.7965727697046034,
@@ -247,7 +247,7 @@ var APP_DATA = {
           "yaw": -0.8775779596360103,
           "pitch": 0.38329747162147676,
           "title": "Cockpit Mantis Iris&nbsp;<div>- Concept</div>",
-          "text": "The Cockpit Mantis Iris is <br>a movable object in which you <br>can work individually and concentrated. <br>Moreover it can connect with others <br>physically and virtually. <br>Group works with virtuals next <br>to physicals are possible."
+          "text": "The Cockpit Mantis Iris is a movable <br>object in which you can work <br>individually and concentrated. <br>Moreover it can connect with others <br>physically and virtually. Group works <br>with virtuals next to physicals <br>are possible."
         },
         {
           "yaw": -0.8679694023503686,
@@ -271,7 +271,7 @@ var APP_DATA = {
           "yaw": 0.32370893302073256,
           "pitch": -0.04298002412646085,
           "title": "Ramps",
-          "text": "As the building has different <br>learning offers, it is organized <br>with a lot of ramps to provoke movement <br>and interaction."
+          "text": "As the building has different <br>learning offers, it is organized <br>with a lot of ramps to provoke <br>movement and interaction."
         },
         {
           "yaw": 1.0236752870298318,
